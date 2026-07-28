@@ -1,0 +1,15 @@
+{
+	"name": "adf-Noor",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "294ba84e-3348-40d7-b6b4-066012500e1a",
+		"tenantId": "f3fbfac9-e567-4caf-acb4-4fd9fc5eb89f"
+	}
+}
